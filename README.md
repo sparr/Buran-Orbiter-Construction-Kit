@@ -20,6 +20,9 @@ DEPENDENCIES
 
 CHANGELOG
 
+BETA 0.3.5 - RELEASE CANDIDATE 1
+- Added textures missing since the last Tantares update
+
 BETA 0.3.4 - RELEASE CANDIDATE 1
 - Fixed flipped normals on OK-GLI OMS pod
 
